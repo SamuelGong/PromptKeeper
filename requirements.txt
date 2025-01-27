@@ -1,0 +1,25 @@
+openai
+pyyaml
+munch
+numpy
+evaluate
+sacrebleu
+transformers
+SentencePiece
+nltk
+google-generativeai
+tiktoken
+torch
+huggingface_hub
+gpustat
+scipy
+bitsandbytes
+matplotlib
+adjustText
+seaborn
+
+# for output2prompt
+accelerate
+tenacity
+sentence_transformers
+rouge_score

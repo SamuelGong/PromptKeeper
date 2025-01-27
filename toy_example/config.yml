@@ -1,0 +1,9 @@
+model: meta-llama/Meta-Llama-3.1-8B-Instruct
+translate_model: gpt-35-turbo
+embed_model: text-embedding-ada-002
+defense_mode:
+  - name: mll_test_regen_005
+    hypothesis_test_significance: 0.05
+system_prompt_dir: system_prompt/toy_example
+user_query_dir: user_query/adversarial
+num_resp_per_query: 1
