@@ -1,5 +1,7 @@
 # PromptKeeper: Safeguarding System Prompts for LLMs
 
+> You can also explore the [DeepWiki](https://deepwiki.com/SamuelGong/PromptKeeper) for this repository, which offers additional insights and helps with answering questions.
+
 ## 1. Initialization
 
 ### 1.1 Necessary Part
